@@ -1,0 +1,2 @@
+# kanjis
+machin learning prject 
